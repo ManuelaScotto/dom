@@ -1,0 +1,49 @@
+* {
+    margin:  0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+form{
+    width: 800px;
+    margin: 30px auto;
+    padding:30px;
+    background-color: white;
+}
+
+fieldset {    
+    padding: 20px;
+}
+
+legend {
+    padding: 0 10px;
+    background-color: orange;
+}
+
+label {
+    display: inline-block;
+    margin: 10px 20px 20px 0;
+}
+
+button {
+    display: block;
+    padding: 10px;
+    color: white;
+    border-radius: 10px;
+    outline: none;
+    border: none;
+    background-color: olivedrab;
+}
+button:hover {
+    background-color: olive;
+}
+
+.container {
+    width: 80%;
+    margin: 30px auto;
+    line-height: 1.7;
+}
+
+.margin {
+    margin-top:20px;
+}
